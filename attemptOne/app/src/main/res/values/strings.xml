@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">attemptOne</string>
+
+    <string-array name="nama_kelas">
+        <item>Bahasa Arab XI02</item>
+        <item>Sains XI02</item>
+        <item>Pterodactile XI02</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AttemptFour</string>
+
+    <array name="itemKelas">
+        <item>Bahasa Inggris</item>
+        <item>Matematika</item>
+        <item>Seni Rupa</item>
+        <item>Solid Tu in E minor</item>
+        <item>Bahasa Indonesia</item>
+        <item>Arabic</item>
+        <item>Moral</item>
+        <item>Agama Islam</item>
+        <item>Agama Kristen</item>
+        <item>Metal Slug</item>
+    </array>
+
+    <array name="titleKelas">
+        <item>Bahasa Inggris</item>
+        <item>Matematika</item>
+        <item>Seni Rupa</item>
+        <item>Solid Tu in E minor</item>
+        <item>Bahasa Indonesia</item>
+        <item>Arabic</item>
+        <item>Moral</item>
+        <item>Agama Islam</item>
+        <item>Agama Kristen</item>
+        <item>Metal Slug</item>
+    </array>
+
+    <string name="lorem">"Lorem ipsum dolor sit amet, consectetur adipiscing elit"</string>
+
+
+</resources>
